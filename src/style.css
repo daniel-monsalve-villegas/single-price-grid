@@ -17,6 +17,7 @@ body {
 	background-color: var(--lightGray);
 	font-size: 20px;
 	margin: 3em auto;
+	width: 80%;
 }
 
 #join {
